@@ -13,7 +13,7 @@
     "fs-extra": "4.0.0",
     "fstream": "^1.0.10",
     "longjohn": "^0.2.11",
-    "moment": "^2.18.1",
+    "moment": "^2.29.2",
     "npm": "^5.4.2",
     "npm-registry-client": "^8.1.0",
     "oboe": "^2.1.3",
